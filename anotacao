@@ -4,8 +4,22 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
-
+(TUDO JAVASCRIPT)
+- String
+- Number
+- Switch case
+- Array (NÃO VAI CAIR NA PROVA)
+- console.log
+- Prompt
+- const
+- let
+Declaração de variáveis: Através do const, você decide numa variável. *ela não pode ser declarada mais de uma vez. caso você queira fazer uma referência à ela com const em outra string, você precisa abreviar ela.
+ex.:
+const street coisa
+const stree coisa
 
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+
+- Um monte de coisa no codepen
